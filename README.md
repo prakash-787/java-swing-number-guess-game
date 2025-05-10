@@ -34,6 +34,3 @@ A simple number guessing game built using Java Swing. The player has 5 attempts 
 - Add a reset button to play again
 - Track score across multiple rounds
 - Add difficulty levels
-
-## License
-This project is open source and free to use under the [MIT License](LICENSE).
